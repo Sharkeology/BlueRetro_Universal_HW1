@@ -7,3 +7,6 @@ A basic board meant to be used with the [BlueRetro project](https://github.com/d
 - 0805 1kΩ Pull-up Resistor for TXS0108E
 - [AMS1117-3.3 3.3V 1A Low Dropout Voltage Regulator](http://www.advanced-monolithic.com/pdf/ds1117.pdf)
 - 2 x 0805 Decoupling Capacitors for AMS1117 (I'm unsure of appropriate values, 1μF is what I used)
+
+TXS0108EPWR Footprint and symbol courtesy of [SnapEDA](https://www.snapeda.com/parts/TXS0108EPWR/Texas%20Instruments/view-part/),
+BlueRetro logo created by [HumbleBazooka](https://twitter.com/humblebazooka).
