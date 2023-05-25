@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TXS0108EPWR")(type "KiCad")(uri "${KIPRJMOD}/assets/TXS0108EPWR/TXS0108EPWR.kicad_sym")(options "")(descr ""))
+)
